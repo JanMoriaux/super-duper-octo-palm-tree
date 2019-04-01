@@ -1,0 +1,11 @@
+{
+  "name": "24_working_with_rest_apis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Jan Moriaux",
+  "license": "ISC"
+}
